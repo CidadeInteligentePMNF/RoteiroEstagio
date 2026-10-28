@@ -1,2 +1,22 @@
 # RoteiroEstagio
-Roteiro de aprendizado para estagiários com temas e árvores de aprendizado divididos por temas e dificuldades
+
+
+
+## Temas a serem aprendidos 
+
+Web:
+- React + NextJS
+- MUI
+- BetterAuth
+- Prisma
+
+DevOps:
+- Git
+- Github
+- SSH
+- Docker
+- Nix
+
+Others:
+- NginX
+- 
